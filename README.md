@@ -7,7 +7,7 @@
 ![local DB link](./img/DB_diagram.png)
 
 ##### Схема DWH
-![local DB link](./img/DWH.png)
+![local DB link](./img/dwh.png)
 
 ##### ETL
 C помощью Pentaho DI реализовано наполнение хранилища данными из DB
