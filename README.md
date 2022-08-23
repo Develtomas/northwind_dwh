@@ -3,15 +3,15 @@
 Учебная DWH создано на основе тестовой DB Nortwwind. Использован подход Кимбалла.
 Скрипт создания таблиц в корне.
 
-#####Схема DB
+##### Схема DB
 ![local DB link](./img/DB_diagram.png)
 
-#####Схема DWH
+##### Схема DWH
 ![local DB link](./img/DWH.png)
 
-#####ETL
+##### ETL
 C помощью Pentaho DI реализовано наполнение хранилища данными из DB
 Трансформации в папке [transformations](./transformations/)
 
-#####Спасибо
+##### Спасибо
 За учебные материалы спасибо каналу [Intellik](https://www.youtube.com/c/Intellik)
